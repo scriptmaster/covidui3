@@ -1,0 +1,17 @@
+{
+  "name": "covidui3",
+  "displayName": "covidui3",
+  "expo": {
+    "name": "covidui3",
+    "slug": "covidui3",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
