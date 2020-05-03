@@ -3,6 +3,7 @@
   "displayName": "covidui3",
   "expo": {
     "name": "covidui3",
+    "icon": "",
     "slug": "covidui3",
     "version": "1.0.0",
     "platforms": [
@@ -10,6 +11,14 @@
       "android",
       "web"
     ],
+    "ios": {
+      "bundleIdentifier": "com.msheriff.covidindia",
+      "buildNumber": "1.0.0"
+    },
+    "android": {
+      "package": "com.msheriff.covidindia",
+      "versionCode": 1
+    },
     "assetBundlePatterns": [
       "**/*"
     ]
